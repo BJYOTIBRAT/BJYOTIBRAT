@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BJYOTIBRAT
+- 👀 I’m interested in Web Dev, Data Science, Artificial Intelligence, and many more.
+- 🌱 I’m currently learning Dart, Web Dev, and System Design.
+- 💞️ I’m looking to collaborate on unique projects.
+- 📫 How to reach me https://www.linkedin.com/in/bindupautra-jyotibrat-a65693289/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Did you know? The first computer "bug" was a real bug! In 1947, engineers working on the Harvard Mark II found a moth trapped in a relay, causing an error in the machine. They documented the incident in their logbook as the "first actual case of a bug being found." And thus, the term "debugging" was born!

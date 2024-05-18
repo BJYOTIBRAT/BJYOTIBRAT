@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BJYOTIBRAT
+- 👋 Hi, I’m Bindupautra Jyotibrat
 - 👀 I’m interested in Web Dev, Data Science, Artificial Intelligence, and many more.
 - 🌱 I’m currently learning Dart, Web Dev, and System Design.
 - 💞️ I’m looking to collaborate on unique projects.

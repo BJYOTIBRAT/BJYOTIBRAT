@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bindupautra+Jyotibrat...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Bindupautra+Jyotibrat+Here...;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -10,7 +10,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjyotibrat" alt="bjyotibrat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/b_jyotibrat" target="blank"><img src="https://img.shields.io/twitter/follow/b_jyotibrat?logo=twitter&style=for-the-badge" alt="b_jyotibrat" /></a> </p>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/bindupautra-jyotibrat-a65693289/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/bjyotibrat" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 - 🌱 I’m currently learning **Kotlin, Dart, System Design and Web Development**
 

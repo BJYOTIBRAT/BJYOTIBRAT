@@ -41,3 +41,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BJYOTIBRAT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"  />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BJYOTIBRAT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"  />
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+

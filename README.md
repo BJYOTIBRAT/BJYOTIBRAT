@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjyotibrat&label=Profile%20views&color=0e75b6&style=flat" alt="bjyotibrat" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjyotibrat" alt="bjyotibrat" /></a> </p>
+<p align="center"> <a href="https://github.com/BJYOTIBRAT/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjyotibrat" alt="bjyotibrat" /></a> </p>
 
 <h5 align="center">
   <code><a href="https://www.hackerrank.com/profile/bjyotibrat" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>

@@ -45,5 +45,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BJYOTIBRAT/NJYOTIBRAT/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BJYOTIBRAT/BJYOTIBRAT/output/snake.svg" alt="Snake animation" />
 

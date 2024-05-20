@@ -8,7 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bjyotibrat&label=Profile%20views&color=0e75b6&style=flat" alt="bjyotibrat" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BJYOTIBRAT)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BJYOTIBRAT&theme=algolia" />
+  </a>
+</div>
 
 <h5 align="center">
   <code><a href="https://www.hackerrank.com/profile/bjyotibrat" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>
@@ -47,3 +51,21 @@
 
 <img src="https://raw.githubusercontent.com/BJYOTIBRAT/BJYOTIBRAT/output/snake.svg" alt="Snake animation" />
 
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BJYOTIBRAT/Portolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BJYOTIBRAT&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BJYOTIBRAT/Resume" title="Resume"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BJYOTIBRAT&repo=Resume&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/BJYOTIBRAT/Kruskal-s-Algorithm" title="Kruskal-s-Algorithm"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BJYOTIBRAT&repo=Kruskal-s-Algorithm&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BJYOTIBRAT/Prim-s-Algorithm" title="Prim-s-Algorithm"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=BJYOTIBRAT&repo=Prim-s-Algorithm&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
